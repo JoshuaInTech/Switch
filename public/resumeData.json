@@ -81,23 +81,23 @@
     "projects": [
       {
         "title":"Project",
-        "description": "Computational Data Analysis Project",
+        "description": "Coordinated cultural event for incoming freshmen students.",
         "image":"05.jpg"
       },
       {
         "title":"Project",
-        "description": "Internet of Things Project",
+        "description": "Represented students in university council meetings.",
         "image":"06.jpg"
       },
       {
         "title":"Project",
-        "description": "Internet of Things Project",
+        "description": "Provided IT support to local community residents.",
         "image":"07.png"
       },
       {
         "title":"Project",
-        "description": "Internet of Things Project",
-        "image":"08.jpg",
+        "description": "Led team at university sports competition.",
+        "image":"08.jpg"
       }
     ]
   }
