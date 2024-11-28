@@ -8,11 +8,11 @@
     "email": "joshuachai.au@gmail.com",
     "phone": "0476 765 811",
     "address":{
-      "line1":"Address: 555 Wellington St",
+      "line1":"Address: 3402B/555 Wellington St",
       "line2":"City: Perth",
       "line3":"Country: Australia"
     },
-    "website": "https://joshuachaseau.github.io/PersonalCV/",
+    "website": "https://joshuaintech.github.io/Switch/",
     "resumedownload":"./images/resume.pdf",
     "social":[
       
@@ -32,32 +32,40 @@
         "degree":"Bachelor of Computer Scinece",
         "graduated":"2020 - 2024",
         "description":""
+      },
+      {
+        "school":"Northern Alberta Institute of Technology",
+        "degree":"Digital Media and IT Program",
+        "graduated":"2020 - 2024",
+        "description":""
       }
     ],
     "work":[
       {
+        "company":"Coders for Causes, UWA",
+        "title":"Front-End Web Developer for Western Australian Junior mathematics Olympiad (WAJO)",
+        "years":"2024",
+        "description":"Created an accessible website enabling smooth online participation.\nCollaborated with a team to meet project deadlines and objectives. \nResulted in successful event execution with positive feedback from organisers and participants."
+      },
+      {
         "company":"Student Union of CSSE, HUST",
-        "title":"Chairman",
+        "title":"President",
         "years":"2022-2023",
-        "description":""
+        "description":"Organized cultural performances and sports events, boosting campus involvement.\nRepresented student interests in council meetings, influencing positive policy changes.\nImproved community bonds and increased student participation in activities."
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"45%"
+        "name":"Customer Service Skills",
+        "level":"67%"
       },
       {
-        "name":"Frontend Development (React)",
-        "level":"50%"
-      },
-      {
-        "name":"Computational Data Analysis (R)",
-        "level":"60%"
+        "name":"Technical Skills",
+        "level":"80%"
       },
       {
         "name":"Leadership & Management",
-        "level":"63%"
+        "level":"75%"
       },
       {
         "name":"Passion & Eager to learn",
