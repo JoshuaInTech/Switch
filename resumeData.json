@@ -42,16 +42,16 @@
     ],
     "work":[
       {
-        "company":"Coders for Causes \n Western Australian Junior mathematics Olympiad (WAJO) Project",
+        "company":"Coders for Causes <br> Western Australian Junior mathematics Olympiad (WAJO) Project",
         "title":"Front-End Web Developer",
         "years":"2024",
-        "description":"Led front-end development to create an engaging and user-friendly website.\n Collaborated with a diverse team to meet project deadlines and objectives.\n Enhanced accessibility and navigation, improving user satisfaction."
+        "description":"Led front-end development to create an engaging and user-friendly website.<br> Collaborated with a diverse team to meet project deadlines and objectives.<br> Enhanced accessibility and navigation, improving user satisfaction."
       },
       {
         "company":"Student Union of CSSE, HUST",
         "title":"Chairman",
         "years":"2022-2023",
-        "description":"Led a team of 20 students in organizing events and initiatives.\n Improved communication between students and faculty, fostering a cohesive community.\n Managed conflict resolution and provided support to team members."
+        "description":"Led a team of 20 students in organizing events and initiatives.<br> Improved communication between students and faculty, fostering a cohesive community.<br> Managed conflict resolution and provided support to team members."
       }
     ],
     "skills":[
