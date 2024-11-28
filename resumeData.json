@@ -1,83 +1,58 @@
 {
   "main": {
-    "name":"Joshua Chai",
-    "description":"Aspiring Customer Service Representative",
-    "image":"profile.jpg",
-    "bio":"Enthusiastic Master's student in Software Engineering with a strong background in technology and a passion for delivering exceptional customer service. Seeking the Customer Service Representative role at The Switch to leverage my technical skills, leadership experience, and commitment to community engagement to enhance resident experiences.",
-    "contactmessage":"Thank you for your feedback.",
+    "name": "Joshua Chai",
+    "description": "Aspiring Customer Service Representative",
+    "image": "profile.jpg",
+    "bio": "Enthusiastic Master's student in Software Engineering with a strong background in technology and a passion for delivering exceptional customer service. Seeking the Customer Service Representative role at The Switch to leverage my technical skills, leadership experience, and commitment to community engagement to enhance resident experiences.",
+    "contactmessage": "Thank you for your feedback.",
     "email": "joshuachai.au@gmail.com",
     "phone": "0476 765 811",
-    "address":{
-      "line1":"Address: 3402B/555 Wellington St",
-      "line2":"City: Perth",
-      "line3":"Country: Australia"
+    "address": {
+      "line1": "Address: 3402B/555 Wellington St",
+      "line2": "City: Perth",
+      "line3": "Country: Australia"
     },
     "website": "https://joshuaintech.github.io/Switch/",
-    "resumedownload":"./images/resume.pdf",
-    "social":[
-      
-    ]
+    "resumedownload": "./images/resume.pdf",
+    "social": []
   },
-  "resume":{
-    "skillmessage":"Technical Skills",
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"University of Western Australia",
-        "degree":"Master of Professional Engineering (Software Engineering)",
-        "graduated":"2024 - 2026",
-        "description":""
+        "school": "University of Western Australia",
+        "degree": "Master  of  Professional  Engineering  (Software  Engineering)",
+        "graduated": "2024 - 2026",
+        "description": ""
       },
       {
-        "school":"Heilongjiang University of Science and Technology",
-        "degree":"Bachelor of Computer Scinece",
-        "graduated":"2020 - 2024",
-        "description":""
+        "school": "Heilongjiang University of Science and Technology",
+        "degree": "Bachelor  of  Computer  Science",
+        "graduated": "2020 - 2024",
+        "description": ""
       },
       {
-        "school":"Northern Alberta Institute of Technology",
-        "degree":"Digital Media and IT Program",
-        "graduated":"2020 - 2024",
-        "description":""
+        "school": "Northern Alberta Institute of Technology",
+        "degree": "Certificate  of  Achievement  in  the  Digital  Media  and  IT  Program",
+        "graduated": "2020 - 2024",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Coders for Causes, UWA",
-        "title":"Front-End Web Developer for Western Australian Junior mathematics Olympiad (WAJO)",
-        "years":"2024",
-        "description":"Created an accessible website enabling smooth online participation.\nCollaborated with a team to meet project deadlines and objectives. \nResulted in successful event execution with positive feedback from organisers and participants."
+        "company": "Coders for Causes, UWA",
+        "title": "Front-End Web Developer for Western Australian Junior mathematics Olympiad (WAJO)",
+        "years": "2024",
+        "description": "· Created an accessible website enabling smooth online participation.\n· Collaborated with a team to meet project deadlines and objectives.\n· Resulted in successful event execution with positive feedback from organisers and participants."
       },
       {
-        "company":"Student Union of CSSE, HUST",
-        "title":"President",
-        "years":"2022-2023",
-        "description":"Organized cultural performances and sports events, boosting campus involvement.\nRepresented student interests in council meetings, influencing positive policy changes.\nImproved community bonds and increased student participation in activities."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Customer Service Skills",
-        "level":"67%"
-      },
-      {
-        "name":"Customer Service Skills",
-        "level":"67%"
-      },
-      {
-        "name":"Technical Skills",
-        "level":"80%"
-      },
-      {
-        "name":"Leadership & Management",
-        "level":"75%"
-      },
-      {
-        "name":"Passion & Eager to learn",
-        "level":"100%"
+        "company": "Student Union of CSSE, HUST",
+        "title": "President",
+        "years": "2022-2023",
+        "description": "· Organized cultural performances and sports events, boosting campus involvement.\n· Represented student interests in council meetings, influencing positive policy changes.\n· Improved community bonds and increased student participation in activities."
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
         "title": "Cultural Event Coordination",
