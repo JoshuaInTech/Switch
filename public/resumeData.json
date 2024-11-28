@@ -14,16 +14,6 @@
       "line2":"City: Perth",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "Joshua Chai",
-        "url": "hhttps://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q"
-      },
-      "chinese": {
-        "name": "Joshua Chai",
-        "url":"https://www.youtube.com/@joshuachaseau"
-      }
-    },
     "website": "https://joshuachaseau.github.io/PersonalCV/",
     "resumedownload":"./images/resume.pdf",
     "social":[
@@ -31,21 +21,6 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/joshua-chase-au/",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/joshuachaseau",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q",
-        "className":"fa fa-youtube-square"
-      },
-      {
-        "name":"twitter",
-        "url":"https://x.com/joshuachaseau",
-        "className":"fa fa-twitter"
       }
     ]
   },
@@ -67,10 +42,16 @@
     ],
     "work":[
       {
+        "company":"Coders for Causes \n Western Australian Junior mathematics Olympiad (WAJO) Project",
+        "title":"Front-End Web Developer",
+        "years":"2024",
+        "description":"Led front-end development to create an engaging and user-friendly website.\n Collaborated with a diverse team to meet project deadlines and objectives.\n Enhanced accessibility and navigation, improving user satisfaction."
+      },
+      {
         "company":"Student Union of CSSE, HUST",
         "title":"Chairman",
         "years":"2022-2023",
-        "description":""
+        "description":"Led a team of 20 students in organizing events and initiatives.\n Improved communication between students and faculty, fostering a cohesive community.\n Managed conflict resolution and provided support to team members."
       }
     ],
     "skills":[
