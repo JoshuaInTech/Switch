@@ -97,18 +97,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Project",
-        "description": "Computational Data Analysis Project",
-        "category": "Project",
-        "image":"04.jpg",
-        "url":"https://joshuachaseau.github.io/Health-Causes-Data-Analysis/"
+        "title": "Cultural Event Coordination",
+        "description": "Coordinated cultural event for incoming freshmen students.",
+        "image": "05.jpg",
+        "alt": "Cultural Event"
       },
       {
-        "title":"Project",
-        "description": "Internet of Things Project",
-        "category": "Project",
-        "image":"00.png",
-        "url":""
+        "title": "Student Council Representation",
+        "description": "Represented students in university council meetings.",
+        "image": "06.jpg",
+        "alt": "Student Council"
+      },
+      {
+        "title": "Community IT Support",
+        "description": "Provided IT support to local community residents.",
+        "image": "07.png",
+        "alt": "Community IT Support"
+      },
+      {
+        "title": "University Sports Leadership",
+        "description": "Led team at university sports competition.",
+        "image": "08.jpg",
+        "alt": "University Sports"
       }
     ]
   }
