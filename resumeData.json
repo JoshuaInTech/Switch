@@ -1,94 +1,98 @@
 {
   "main": {
-    "name":"Joshua Chai",
-    "description":"Aspiring Customer Service Representative",
-    "image":"profile.jpg",
-    "bio":"Enthusiastic Master's student in Software Engineering with a strong background in technology and a passion for delivering exceptional customer service. Seeking the Customer Service Representative role at The Switch to leverage my technical skills, leadership experience, and commitment to community engagement to enhance resident experiences.",
-    "contactmessage":"Thank you for your feedback.",
+    "name": "Joshua Chai",
+    "description": "Aspiring Customer Service Representative",
+    "image": "profile.jpg",
+    "bio": "Enthusiastic Master's student in Software Engineering with a strong background in technology and a passion for delivering exceptional customer service. Seeking the Customer Service Representative role at The Switch to leverage my technical skills, leadership experience, and commitment to community engagement to enhance resident experiences.",
+    "contactmessage": "Thank you for your feedback.",
     "email": "joshuachai.au@gmail.com",
     "phone": "0476 765 811",
-    "address":{
-      "line1":"Address: 3402B/555 Wellington St",
-      "line2":"City: Perth",
-      "line3":"Country: Australia"
+    "address": {
+      "line1": "Address: 3402B/555 Wellington St",
+      "line2": "City: Perth",
+      "line3": "Country: Australia"
     },
     "website": "https://joshuaintech.github.io/Switch/",
-    "resumedownload":"./images/resume.pdf"
+    "resumedownload": "./images/resume.pdf"
   },
-  "resume":{
-    "skillmessage":"Technical Skills",
-    "education":[
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "education": [
       {
-        "school":"University of Western Australia",
-        "degree":"Master of Professional Engineering (Software Engineering)",
-        "graduated":"2024 - 2026",
-        "description":""
+        "school": "University of Western Australia",
+        "degree": "Master of Professional Engineering (Software Engineering)",
+        "graduated": "2024 - 2026",
+        "description": "Focused on software engineering principles, system design, and project management."
       },
       {
-        "school":"Heilongjiang University of Science and Technology",
-        "degree":"Bachelor of Computer Scinece",
-        "graduated":"2020 - 2024",
-        "description":""
+        "school": "Heilongjiang University of Science and Technology",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "2020 - 2024",
+        "description": "Specialized in software development, algorithms, and data structures."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Coders for Causes\nWestern Australian Junior mathematics Olympiad (WAJO) Project",
-        "title":"Front-End Web Developer",
-        "years":"2024",
-        "description":"Led front-end development to create an engaging and user-friendly website.\nCollaborated with a diverse team to meet project deadlines and objectives.\nEnhanced accessibility and navigation, improving user satisfaction."
+        "company": "Coders for Causes\nWestern Australian Junior mathematics Olympiad (WAJO) Project",
+        "title": "Front-End Web Developer",
+        "years": "2024",
+        "description": "Led front-end development to create an engaging and user-friendly website.\nCollaborated with a diverse team to meet project deadlines and objectives.\nEnhanced accessibility and navigation, improving user satisfaction."
       },
       {
-        "company":"Student Union of CSSE, HUST",
-        "title":"Chairman",
-        "years":"2022-2023",
-        "description":"Led a team of 20 students in organizing events and initiatives.\nImproved communication between students and faculty, fostering a cohesive community.\nManaged conflict resolution and provided support to team members."
+        "company": "Student Union of CSSE, HUST",
+        "title": "Chairman",
+        "years": "2022-2023",
+        "description": "Led a team of 20 students in organizing events and initiatives.\nImproved communication between students and faculty, fostering a cohesive community.\nManaged conflict resolution and provided support to team members."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"45%"
+        "name": "Backend Development (Infrastructure, API, Database)",
+        "level": "45%"
       },
       {
-        "name":"Frontend Development (React)",
-        "level":"50%"
+        "name": "Frontend Development (React)",
+        "level": "50%"
       },
       {
-        "name":"Computational Data Analysis (R)",
-        "level":"60%"
+        "name": "Computational Data Analysis (R)",
+        "level": "60%"
       },
       {
-        "name":"Leadership & Management",
-        "level":"63%"
+        "name": "Leadership & Management",
+        "level": "63%"
       },
       {
-        "name":"Passion & Eager to learn",
-        "level":"100%"
+        "name": "Passion & Eager to learn",
+        "level": "100%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Project",
+        "title": "Cultural Event Coordination",
         "description": "Coordinated cultural event for incoming freshmen students.",
-        "image":"05.jpg"
+        "image": "05.jpg",
+        "alt": "Cultural Event"
       },
       {
-        "title":"Project",
+        "title": "Student Council Representation",
         "description": "Represented students in university council meetings.",
-        "image":"06.jpg"
+        "image": "06.jpg",
+        "alt": "Student Council"
       },
       {
-        "title":"Project",
+        "title": "Community IT Support",
         "description": "Provided IT support to local community residents.",
-        "image":"07.png"
+        "image": "07.png",
+        "alt": "Community IT Support"
       },
       {
-        "title":"Project",
+        "title": "University Sports Leadership",
         "description": "Led team at university sports competition.",
-        "image":"08.jpg"
+        "image": "08.jpg",
+        "alt": "University Sports"
       }
     ]
   }
