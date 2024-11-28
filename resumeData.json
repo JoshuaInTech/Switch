@@ -42,16 +42,16 @@
     ],
     "work":[
       {
-        "company":"Coders for Causes <br> Western Australian Junior mathematics Olympiad (WAJO) Project",
+        "company":"Coders for Causes\nWestern Australian Junior mathematics Olympiad (WAJO) Project",
         "title":"Front-End Web Developer",
         "years":"2024",
-        "description":"Led front-end development to create an engaging and user-friendly website.<br> Collaborated with a diverse team to meet project deadlines and objectives.<br> Enhanced accessibility and navigation, improving user satisfaction."
+        "description":"Led front-end development to create an engaging and user-friendly website.\nCollaborated with a diverse team to meet project deadlines and objectives.\nEnhanced accessibility and navigation, improving user satisfaction."
       },
       {
         "company":"Student Union of CSSE, HUST",
         "title":"Chairman",
         "years":"2022-2023",
-        "description":"Led a team of 20 students in organizing events and initiatives.<br> Improved communication between students and faculty, fostering a cohesive community.<br> Managed conflict resolution and provided support to team members."
+        "description":"Led a team of 20 students in organizing events and initiatives.\nImproved communication between students and faculty, fostering a cohesive community.\nManaged conflict resolution and provided support to team members."
       }
     ],
     "skills":[
@@ -83,22 +83,19 @@
         "title":"Project",
         "description": "Computational Data Analysis Project",
         "category": "Project",
-        "image":"04.jpg",
-        "url":"#"
+        "image":"04.jpg"
       },
       {
         "title":"Project",
         "description": "Internet of Things Project",
         "category": "Project",
-        "image":"00.png",
-        "url":"#"
+        "image":"00.png"
       },
       {
         "title":"Project",
         "description": "Internet of Things Project",
         "category": "Project",
-        "image":"00.png",
-        "url":"#"
+        "image":"00.png"
       },
       {
         "title":"Project",
