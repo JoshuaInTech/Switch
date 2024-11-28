@@ -82,27 +82,22 @@
       {
         "title":"Project",
         "description": "Computational Data Analysis Project",
-        "category": "Project",
-        "image":"04.jpg"
+        "image":"05.jpg"
       },
       {
         "title":"Project",
         "description": "Internet of Things Project",
-        "category": "Project",
-        "image":"00.png"
+        "image":"06.jpg"
       },
       {
         "title":"Project",
         "description": "Internet of Things Project",
-        "category": "Project",
-        "image":"00.png"
+        "image":"07.png"
       },
       {
         "title":"Project",
         "description": "Internet of Things Project",
-        "category": "Project",
-        "image":"00.png",
-        "url":"#"
+        "image":"08.jpg",
       }
     ]
   }
