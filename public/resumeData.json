@@ -7,22 +7,13 @@
     "contactmessage":"Thank you for your feedback.",
     "email": "joshuachai.au@gmail.com",
     "phone": "0476 765 811",
-    "github":"https://github.com/joshuachaseau",
-    "project":"https://github.com/joshuachaseau",
     "address":{
       "line1":"Address: 3402B/555 Wellington St",
       "line2":"City: Perth",
       "line3":"Country: Australia"
     },
-    "website": "https://joshuachaseau.github.io/PersonalCV/",
-    "resumedownload":"./images/resume.pdf",
-    "social":[
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joshua-chase-au/",
-        "className":"fa fa-linkedin-square"
-      }
-    ]
+    "website": "https://joshuaintech.github.io/Switch/",
+    "resumedownload":"./images/resume.pdf"
   },
   "resume":{
     "skillmessage":"Technical Skills",
