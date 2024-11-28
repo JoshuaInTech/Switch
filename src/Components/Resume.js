@@ -15,6 +15,8 @@ class Resume extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
+
+    // 修改教育部分，处理换行符 \n
     const education = this.props.data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -23,24 +25,47 @@ class Resume extends Component {
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
-          <p>{education.description}</p>
+          <p>
+            {education.description.split("\n").map((line, index) => (
+              <span key={index}>
+                {line}
+                <br />
+              </span>
+            ))}
+          </p>
         </div>
       );
     });
 
+    // 修改工作部分，处理换行符 \n
     const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
-          <h3>{work.company}</h3>
+          <h3>
+            {work.company.split("\n").map((line, index) => (
+              <span key={index}>
+                {line}
+                <br />
+              </span>
+            ))}
+          </h3>
           <p className="info">
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>
+            {work.description.split("\n").map((line, index) => (
+              <span key={index}>
+                {line}
+                <br />
+              </span>
+            ))}
+          </p>
         </div>
       );
     });
 
+    // 技能部分无需修改
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
